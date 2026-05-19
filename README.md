@@ -21,7 +21,7 @@ Computer Science student at UFABC focused on software development, artificial in
 - SQL
 - Git/GitHub
 - MPI
-- Apache Zookeeper
+- CUDA (Basic)
 
 ---
 
