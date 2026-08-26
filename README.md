@@ -1,55 +1,61 @@
 # Caio Cardoso
 
-Computer Science student at UFABC focused on software development, artificial intelligence, data analysis and high-performance computing.
+Estudante de Ciência da Computação na UFABC, com interesse em desenvolvimento de software e sistemas computacionais. Busco oportunidades para aplicar meus conhecimentos, desenvolver novas habilidades e contribuir em projetos de tecnologia.
 
 ---
 
-## About Me
+## Competências
 
-- Computer Science student at UFABC
-- Experience with C, Java and Python
-- Interested in software development, data analysis, AI and parallel programming
-- Academic projects involving MPI, Zookeeper and Genetic Algorithms
+### Linguagens
+
+* C
+* Java
+* Python
+* SQL
+
+### Tecnologias e ferramentas
+
+* Spring Boot
+* APIs REST
+* HTML/CSS
+* Git
+* Docker
+* MySQL
+* MPI
+* CUDA
+  
+---
+
+### Áreas de interesse
+
+* Desenvolvimento de software
+* Desenvolvimento Web
+* Inteligência Artificial
+* Análise de dados
+* Computação paralela
+* Algoritmos e estruturas de dados
 
 ---
 
-## Technologies
+## Principais projetos
 
-- C
-- Java
-- Python
-- SQL
-- Git/GitHub
-- MPI
-- CUDA (Basic)
+### Eternity II — Paralelização com MPI em C
 
----
+Implementação de uma solução paralela para o problema Eternity II, aplicando conceitos de computação de alto desempenho e programação com MPI.
 
-## Highlighted Projects
+### Sistema de Resolução de Nomes com ZooKeeper
 
-### Eternity II Parallel Solver (MPI + C)
-Parallel implementation of the Eternity II puzzle using MPI and C, applying concepts of parallel programming and performance optimization.
+Desenvolvimento de um sistema distribuído em Java utilizando Apache ZooKeeper, explorando conceitos de redes e arquitetura distribuída.
 
-### Distributed Name Resolution System
-Distributed DNS-like system developed in Java using Apache Zookeeper and distributed systems concepts.
+### Rede Neural de Uma Camada em Python
 
-### Genetic Algorithm for the N-Queens Problem
-Implementation of a heuristic optimization solution using Genetic Algorithms in Python.
+Implementação de uma rede neural para predição do nível de adaptabilidade de estudantes ao ensino a distância.
 
-### Single Layer Neural Network
-Machine learning project developed in Python to predict students adaptability to remote learning.
+### Algoritmo Genético — Problema das N-Rainhas
 
-### Big Number Data Structure in C
-Implementation of a custom data structure for handling large numerical values in C.
+Implementação de uma solução heurística para o problema das N-Rainhas utilizando algoritmos genéticos em Python.
 
----
+### Estrutura de Dados Big Number em C
 
-## Areas of Interest
-
-- Software Development
-- Artificial Intelligence
-- Parallel Programming
-- Data Analysis
-- Algorithms and Data Structures
-
+Implementação de uma estrutura para representação e manipulação de números inteiros de grande magnitude em C.
 
