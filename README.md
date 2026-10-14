@@ -13,16 +13,43 @@ Estudante de Ciência da Computação na UFABC, com interesse em desenvolvimento
 * Python
 * SQL
 
-### Tecnologias e ferramentas
+### Backend & APIs
 
 * Spring Boot
+* Spring Data JPA
 * APIs REST
-* HTML/CSS
+
+### Frontend
+
+* Angular
+* HTML
+* CSS
+
+### Banco de Dados & Ferramentas
+
+* MySQL
 * Git
 * Docker
-* MySQL
-* MPI
-* CUDA
+
+### Frontend
+
+* Angular
+* HTML
+* CSS
+
+### Testes & Qualidade
+
+* JUnit 
+* Mockito 
+* JaCoCo
+
+### Conceitos
+
+* Programação Orientada a Objetos
+* Estruturas de Dados
+* Fundamentos de Segurança
+* Redes de computadores
+ 
   
 ---
 
@@ -30,14 +57,23 @@ Estudante de Ciência da Computação na UFABC, com interesse em desenvolvimento
 
 * Desenvolvimento de software
 * Desenvolvimento Web
+* Sistemas
+* Suporte
 * Inteligência Artificial
 * Análise de dados
-* Computação paralela
 * Algoritmos e estruturas de dados
 
 ---
 
 ## Principais projetos
+
+### Detector de Conflitos em Textos utilizando IA (TCC)
+
+Desenvolvimento de sistema para detecção automática de conflitos em textos utilizando o modelo BERTimbau.
+
+### Sistema de Cadastro de Veículos
+
+Desenvolvimento de aplicação web para cadastro, consulta, edição e exclusão de veículos, utilizando Java, Spring Boot, Angular e MySQL, com autenticação de usuários via JWT.
 
 ### Eternity II — Paralelização com MPI em C
 
